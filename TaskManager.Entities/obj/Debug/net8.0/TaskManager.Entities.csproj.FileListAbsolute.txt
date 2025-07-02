@@ -1,0 +1,12 @@
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\bin\Debug\net8.0\TaskManager.Entities.deps.json
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\bin\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\bin\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.csproj.AssemblyReference.cache
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.AssemblyInfoInputs.cache
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.AssemblyInfo.cs
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.dll
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\refint\TaskManager.Entities.dll
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\TaskManager.Entities.pdb
+C:\Users\asdha\source\repos\TaskManager.API\TaskManager.Entities\obj\Debug\net8.0\ref\TaskManager.Entities.dll

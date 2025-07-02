@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A51A43-3796-40FA-A4E7-2F5F97E1DD25}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70A51A43-3796-40FA-A4E7-2F5F97E1DD25}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\project\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\project\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\project\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1434C2-0074-422A-B860-EC5377B867EF}|TaskManager.Business\\TaskManager.Business.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.business\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1434C2-0074-422A-B860-EC5377B867EF}|TaskManager.Business\\TaskManager.Business.csproj|solutionrelative:taskmanager.business\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D299822C-6FE3-4635-9B71-55AC168A6F63}|TaskManager.DataAccess\\TaskManager.DataAccess.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D299822C-6FE3-4635-9B71-55AC168A6F63}|TaskManager.DataAccess\\TaskManager.DataAccess.csproj|solutionrelative:taskmanager.dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D299822C-6FE3-4635-9B71-55AC168A6F63}|TaskManager.DataAccess\\TaskManager.DataAccess.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D299822C-6FE3-4635-9B71-55AC168A6F63}|TaskManager.DataAccess\\TaskManager.DataAccess.csproj|solutionrelative:taskmanager.dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\teams\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\teams\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\teams\\teamassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\teams\\teamassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\project\\taskassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\project\\taskassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\taskmanager.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\taskmanager.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\helper\\userrolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\helper\\userrolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.entities\\helper\\invitationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02E230A-C243-4A47-87E6-5451E2DBBA35}|TaskManager.Entities\\TaskManager.Entities.csproj|solutionrelative:taskmanager.entities\\helper\\invitationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248476EA-0550-48FB-AFD9-B497AD403F5E}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\asdha\\source\\repos\\taskmanager.api\\taskmanager.core\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248476EA-0550-48FB-AFD9-B497AD403F5E}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManager.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManager.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:38:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Invitation.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Invitation.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Invitation.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Invitation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:58:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teams.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Teams\\Teams.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Teams\\Teams.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Teams\\Teams.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Teams\\Teams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:00:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\User\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\User\\User.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\User\\User.cs",
+              "RelativeToolTip": "TaskManager.Entities\\User\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:51:32.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManager.DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManager.DataAccess\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:43:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.DataAccess\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.DataAccess\\IRepository.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.DataAccess\\IRepository.cs",
+              "RelativeToolTip": "TaskManager.DataAccess\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:52:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Business\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Business\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Business\\IAuthService.cs",
+              "RelativeToolTip": "TaskManager.Business\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:46:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Project\\Project.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Project\\Project.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Project\\Project.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Project\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:44:15.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Project\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Project\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Project\\TaskItem.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Project\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:56:32.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Teams\\TeamAssigment.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Teams\\TeamAssigment.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Teams\\TeamAssigment.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Teams\\TeamAssigment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:05:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Project\\TaskAssigment.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Project\\TaskAssigment.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Project\\TaskAssigment.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Project\\TaskAssigment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:56:35.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskManager.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\TaskManager.Entities.csproj",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\TaskManager.Entities.csproj",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\TaskManager.Entities.csproj",
+              "RelativeToolTip": "TaskManager.Entities\\TaskManager.Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T09:58:16.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Helper\\UserRoleHelper.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Helper\\UserRoleHelper.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Helper\\UserRoleHelper.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Helper\\UserRoleHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:09:29.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvitationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Helper\\InvitationStatus.cs",
+              "RelativeDocumentMoniker": "TaskManager.Entities\\Helper\\InvitationStatus.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Entities\\Helper\\InvitationStatus.cs",
+              "RelativeToolTip": "TaskManager.Entities\\Helper\\InvitationStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:59:56.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Core\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\asdha\\source\\repos\\TaskManager.API\\TaskManager.Core\\JwtSettings.cs",
+              "RelativeToolTip": "TaskManager.Core\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:00:29.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
