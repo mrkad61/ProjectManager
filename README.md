@@ -2,11 +2,10 @@ ProjectManager
 
 ProjectManager, projelerinizi, görevlerinizi ve ekiplerinizi tek bir yerden verimli bir şekilde yönetmenizi sağlayan bir proje yönetim aracıdır.
 
-[Projenizin ana ekran görüntüsünü veya bir GIF'i buraya ekleyin]
 
 📝 Hakkında
 
-Bu proje, [Projenizi geliştirme amacınızı kısaca açıklayın. Örneğin: "küçük ve orta ölçekli ekiplerin proje takibini kolaylaştırmak amacıyla geliştirilmiştir."]. Kullanıcıların projeler oluşturmasına, görevler atamasına ve ilerlemeyi anlık olarak takip etmesine olanak tanır.
+Bu proje, Kullanıcıların projeler oluşturmasına, görevler atamasına ve ilerlemeyi anlık olarak takip etmesine olanak tanır.
 
 ✨ Özellikler
 
@@ -18,7 +17,6 @@ Bu proje, [Projenizi geliştirme amacınızı kısaca açıklayın. Örneğin: "
 
     Kullanıcı Dostu Arayüz: Kolay ve anlaşılır bir arayüz ile projelerinizi rahatça yönetin.
 
-    [Varsa Diğer Özellikler]: Raporlama, bildirimler vb. diğer özellikleri buraya ekleyebilirsiniz.
 
 🚀 Kullanılan Teknolojiler
 
@@ -32,7 +30,6 @@ Projenin geliştirilmesinde kullanılan ana teknolojiler ve kütüphaneler aşa�
 
     API Teknolojisi: [Örn: RESTful API, GraphQL]
 
-    [Diğer Araçlar]: [Örn: Docker, Entity Framework Core, JWT]
 
 🏁 Başlarken
 
@@ -72,7 +69,7 @@ Veritabanı bağlantı ayarlarını yapın:
 Veritabanını oluşturun ve güncelleyin (migrations):
 Bash
 
-    [Örn: dotnet ef database update]
+    dotnet ef database update
 
 kullanım
 
@@ -99,12 +96,5 @@ Katkılarınız projeyi daha iyi bir hale getirecektir! Katkıda bulunmak isters
 
     Bir "Pull Request" açın.
 
-📜 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
-
-📬 İletişim
-
-Kadir - @mrkad61
 
 Proje Linki: https://github.com/mrkad61/ProjectManager/
